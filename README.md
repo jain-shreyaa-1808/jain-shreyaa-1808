@@ -1,4 +1,4 @@
-<img src="github.pn" alt="poster"></img>
+<img src="github.png" alt="poster"></img>
 - 🌱 I’m currently learning **Web Development and Machine Learning**
 
 - 👨‍💻 Have a look at my Projects here [Portfolio](https://8hhmg92daiqoi2zynoz36g.on.drv.tw/www.kickstarter__blog/Home.html)
