@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jain-shreyaa-1808&label=Profile%20views&color=0e75b6&style=flat" alt="jain-shreyaa-1808" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jain-shreyaa-1808" alt="jain-shreyaa-1808" /></a> </p>
-
 - 🌱 I’m currently learning **Web Development and Machine Learning**
 
-- 👨‍💻 Have a look at my Projects here [https://8hhmg92daiqoi2zynoz36g.on.drv.tw/www.kickstarter__blog/Home.html](https://8hhmg92daiqoi2zynoz36g.on.drv.tw/www.kickstarter__blog/Home.html)
+- 👨‍💻 Have a look at my Projects here [Portfolio](https://8hhmg92daiqoi2zynoz36g.on.drv.tw/www.kickstarter__blog/Home.html)
 
 - 📫 How to reach me **shreya061mca22@igdtuw.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lVMkBSdS0REOQ9jHzg5JZcBzhveL7XBd/view?usp=share_link](https://drive.google.com/file/d/1lVMkBSdS0REOQ9jHzg5JZcBzhveL7XBd/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lVMkBSdS0REOQ9jHzg5JZcBzhveL7XBd/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
