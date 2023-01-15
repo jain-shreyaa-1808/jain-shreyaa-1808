@@ -1,4 +1,7 @@
-<img src="githubPoster.png" alt="poster" style="margin-left:20%"></img>
+<img src="githubPoster.png" alt="poster" height="400" width="1000"></img>
+
+- My preferred coding language **C++**
+
 - 🌱 I’m currently learning **Web Development and Machine Learning**
 
 - 👨‍💻 Have a look at my Projects here [Portfolio](https://8hhmg92daiqoi2zynoz36g.on.drv.tw/www.kickstarter__blog/Home.html)
