@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shreya061mca22@igdtuw.ac.in**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lVMkBSdS0REOQ9jHzg5JZcBzhveL7XBd/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11nyoBXCFkHGZS-F551d8KxEZEbDE4tdv/view?usp=drive_link)
 
 <br>
 <h3 align="left">Connect with me:</h3>
