@@ -35,4 +35,3 @@
 </p>
 <br>                                                                                                                                                                
 <!-- ![snake gif](https://github.com/AartiKushwaha/AartiKushwaha/blob/output/github-contribution-grid-snake.svg) -->
- [![An image of @jainshreyaa18086's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jainshreyaa18086)](https://holopin.io/@jainshreyaa18086)
