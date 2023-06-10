@@ -34,5 +34,7 @@
 <p align="center">
  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=Shreya Jain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jain-shreyaa-1808&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
-                                                                                          
-<!--![snake gif](https://github.com/AartiKushwaha/AartiKushwaha/blob/output/github-contribution-grid-snake.svg)-->
+<br>                                                                                   
+#### Opensource - Hacktoberfest
+[![@jainshreyaa18086's Holopin board](https://holopin.me/jainshreyaa18086)](https://holopin.io/@jainshreyaa18086)                                                                                   
+![snake gif](https://github.com/AartiKushwaha/AartiKushwaha/blob/output/github-contribution-grid-snake.svg)
