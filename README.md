@@ -1,4 +1,4 @@
-<img src="Profile.png" alt="poster" height="400" width="1000"></img>
+![Profile](https://github.com/jain-shreyaa-1808/jain-shreyaa-1808/blob/main/Profile.png?raw=true)
 
 ### Have a look at my profile 🤩
 
