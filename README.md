@@ -1,4 +1,4 @@
-![Profile](https://github.com/jain-shreyaa-1808/jain-shreyaa-1808/blob/main/Profile.png?raw=true)
+![Profile](Profile.png)
 
 ### Have a look at my profile 🤩
 
