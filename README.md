@@ -17,7 +17,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/-shreya-jain-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-shreya-jain-" height="30" width="40" />Linkedin</a>
+<a href="https://linkedin.com/in/-shreya-jain-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyaj" height="30" width="40"" />Linkedin</a>
 <a href="https://instagram.com/shreyajain1808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyajain1808" height="30" width="40" />Instagram</a>
 <a href="https://www.hackerrank.com/jain_shreyaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jain_shreyaa" height="30" width="40" />Hackerrank</a>
 <a href="https://www.leetcode.com/shreyajain1808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyajain1808" height="30" width="40" />Leetcode</a>
