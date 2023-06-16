@@ -1,4 +1,4 @@
-<img src="githubPoster.png" alt="poster" height="400" width="1000"></img>
+<img src="Profile.png" alt="poster" height="400" width="1000"></img>
 
 ### Have a look at my profile 🤩
 
