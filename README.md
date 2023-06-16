@@ -1,5 +1,5 @@
 ### Have a look at my profile 🤩
-![Profile](./githubPoster.png)
+
 - 📄 My preferred coding language **C++**
 
 - 🌱 I’m currently learning **Web Development and Machine Learning**
