@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Profile.png" width="350" >
-</p>
-
 ### Have a look at my profile 🤩
 
 - 📄 My preferred coding language **C++**
