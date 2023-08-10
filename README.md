@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **anything!, I'll be happy to help:)**
 
-- 📫 How to reach me **shreya061mca22@igdtuw.ac.in**
+- 📫 How to reach me **shreyaajain1808@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yqRdMd0Ie2f7t5nzE7-47qXwO0vbBVux/view?usp=sharing)
 
