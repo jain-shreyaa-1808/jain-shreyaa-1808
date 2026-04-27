@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **shreyaajain1808@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yqRdMd0Ie2f7t5nzE7-47qXwO0vbBVux/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19QTfBx5kxLuNrThqibfmBOnOLr984Klr/view?usp=sharing)
 
 <br>
 <h3 align="left">Connect with me:</h3>
